@@ -1,0 +1,13 @@
+{
+  "name": "it-crm",
+  "version": "0.1.0",
+  "description": "Aplicación Node.js para la gestión de clientes",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  }
+}
